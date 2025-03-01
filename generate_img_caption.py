@@ -1,10 +1,11 @@
 import os
+import dotenv
 
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from PIL import Image
 
 
-IMAGE_FOLDER_PATH = 'noto_emoji_dataset/512/'
+IMAGE_FOLDER_PATH = dotenv.get_key('.env', 'IMAGE_FOLDER_PATH')
 
 
 def generate_image_caption(image_path: str, model: BlipForConditionalGeneration, processor: BlipProcessor) -> str:
