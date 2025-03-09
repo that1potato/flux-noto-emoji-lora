@@ -2,10 +2,10 @@
 
 This is the preprocessing/training script used for fine-tunning a custom LoRA for Flux.1-dev on Google's [noto-emoji](https://github.com/googlefonts/noto-emoji) font set.
 
+## Model
+
 -   Huggingface repo: https://huggingface.co/potato987/flux-noto-emoji
 -   Replicate repo: https://replicate.com/that1potato/flux-noto-emoji/examples
-
-## Model
 
 ### Example
 
