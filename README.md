@@ -11,13 +11,13 @@ This is the preprocessing/training script used for fine-tunning a custom LoRA fo
 
 <div align="center">
 
-| Image                                                                                 | Prompt                                                 |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| ![bear-wearing-space-suit-emoji](example_images\bear-wearing-space-suit-emoji-2.webp) | "NOTO bear wearing space suit emoji, white background" |
-| ![fire-place-emoji](example_images\fire-place-emoji.webp)                             | "NOTO fire-place emoji, white background"              |
-| ![flying-horse-emoji](example_images\flying-horse-emoji.webp)                         | "NOTO flying-horse emoji, white background"            |
-| ![girl-with-cat-ears-emoji](example_images\girl-with-cat-ears-emoji.webp)             | "NOTO girl with cat ears emoji, white background"      |
-| ![smartphone-emoji](example_images\smartphone-emoji.webp)                             | "NOTO smartphone emoji, white background"              |
+| Image                                                                                | Prompt                                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| ![bear-wearing-space-suit-emoji](example_images\bear-wearing-space-suit-emoji-2.png) | "NOTO bear wearing space suit emoji, white background" |
+| ![fire-place-emoji](example_images\fire-place-emoji.png)                             | "NOTO fire-place emoji, white background"              |
+| ![flying-horse-emoji](example_images\flying-horse-emoji.png)                         | "NOTO flying-horse emoji, white background"            |
+| ![girl-with-cat-ears-emoji](example_images\girl-with-cat-ears-emoji.png)             | "NOTO girl with cat ears emoji, white background"      |
+| ![smartphone-emoji](example_images\smartphone-emoji.png)                             | "NOTO smartphone emoji, white background"              |
 
 </div>
 
