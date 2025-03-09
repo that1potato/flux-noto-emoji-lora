@@ -11,13 +11,13 @@ This is the preprocessing/training script used for fine-tunning a custom LoRA fo
 
 <div align="center">
 
-| Image                                                                                | Prompt                                                 |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| ![bear-wearing-space-suit-emoji](example_images/bear-wearing-space-suit-emoji-2.png) | "NOTO bear wearing space suit emoji, white background" |
-| ![fire-place-emoji](example_images/fire-place-emoji.png)                             | "NOTO fire-place emoji, white background"              |
-| ![flying-horse-emoji](example_images/flying-horse-emoji.png)                         | "NOTO flying-horse emoji, white background"            |
-| ![girl-with-cat-ears-emoji](example_images/girl-with-cat-ears-emoji.png)             | "NOTO girl with cat ears emoji, white background"      |
-| ![smartphone-emoji](example_images/smartphone-emoji.png)                             | "NOTO smartphone emoji, white background"              |
+| Image                                                                                                            | Prompt                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| <img src="example_images/bear-wearing-space-suit-emoji-2.png" alt="bear-wearing-space-suit-emoji" width="512" /> | "NOTO bear wearing space suit emoji, white background" |
+| <img src="example_images/fire-place-emoji.png" alt="fire-place-emoji" width="512" />                             | "NOTO fire-place emoji, white background"              |
+| <img src="example_images/flying-horse-emoji.png" alt="flying-horse-emoji" width="512" />                         | "NOTO flying-horse emoji, white background"            |
+| <img src="example_images/girl-with-cat-ears-emoji.png" alt="girl-with-cat-ears-emoji" width="512" />             | "NOTO girl with cat ears emoji, white background"      |
+| <img src="example_images/smartphone-emoji.png" alt="smartphone-emoji" width="512" />                             | "NOTO smartphone emoji, white background"              |
 
 </div>
 
